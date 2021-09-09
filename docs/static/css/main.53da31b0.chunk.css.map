@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AACA,EACI,sCACJ,CAEA,KACI,YACJ,CAEA,MACI,UAAW,CACX,UAAW,CACX,gBACJ","file":"main.53da31b0.chunk.css","sourcesContent":["\n* {\n    font-family: Helvetica, Arial, sans-serif;\n}\n\nbody {\n    padding: 60px;\n}\n\ninput {\n    color: grey;\n    width: 100%;\n    font-size: 1.2rem;\n}"]}
